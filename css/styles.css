@@ -110,15 +110,15 @@ letter-spacing: 0.02em;
     color: var(--accent-color);
 }
 
-.address-list-item:not(:last-child) {
+.header .address-list-item:not(:last-child) {
     margin-right: 30px;
 }
 
-.address-list{
+.header .address-list{
     display: flex;
  }
 
-.address-list-item {
+.header .address-list-item {
 color: var(--text-light-theme-color);}
 
 /* Hero section*/
@@ -224,7 +224,11 @@ letter-spacing: 0.03em;
 color: var(--title-dark-theme-color);
 }
 
-.footer-list-link .footer-list-link2 {
+.footer-list-linkm {
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);
 }
 
