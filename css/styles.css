@@ -108,9 +108,12 @@ letter-spacing: 0.02em;
 }
 
 .navigation-list-link {
-    color: var(--title-light-theme-color);
+color: var(--title-light-theme-color);
 }
 
+.address-list-item-link {
+color: var(--text-light-theme-color);
+}
 .navigation-list-link:hover,
 .navigation-list-link:focus,
 .address-list-item-link:hover,
