@@ -223,6 +223,10 @@ margin-bottom: 10px;
 
 /*ЧЕМ МЫ ЗАНИМАЕМСЯ*/
 
+.what {
+padding-bottom: 94px;
+}
+
 .title {
 font-weight: 700;
 font-size: 36px;
@@ -234,13 +238,11 @@ color: var(--title-light-theme-color);
 
 .title {
 margin-bottom: 50px;
-padding-top: 94px;
 }
 
 .we-do{
 display: flex;
-justify-content: space-between;
-padding-bottom: 94px;  
+justify-content: space-between;  
 }
 
 .we-title:not(:last-child) {
