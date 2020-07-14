@@ -221,12 +221,12 @@ margin-bottom: 10px;
     color: var(--text-light-theme-color);
 }
 
-/*ЧЕМ МЫ ЗАНИМАЕМСЯ*/
-
-.what {
+.section {
+padding-top: 94px;
 padding-bottom: 94px;
 }
 
+/*ЧЕМ МЫ ЗАНИМАЕМСЯ*/
 .title {
 font-weight: 700;
 font-size: 36px;
@@ -242,7 +242,8 @@ margin-bottom: 50px;
 
 .we-do{
 display: flex;
-justify-content: space-between;  
+justify-content: space-between;
+/*padding-bottom: 94px;  */
 }
 
 .we-title:not(:last-child) {
@@ -268,7 +269,7 @@ margin-right: 30px;
 .comand-list {
 display: flex;
 justify-content: space-between;
-padding-bottom: 94px; 
+/*padding-bottom: 94px; */
 }
 
 .comand-list-item:not(:last-child) {
@@ -328,7 +329,7 @@ margin-right: 10px;
 .client-list {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 94px; 
+    /*padding-bottom: 94px; */
 }
 
 .client-list-item:not(:last-child) {
