@@ -245,7 +245,6 @@ margin-bottom: 50px;
 .we-do{
 display: flex;
 justify-content: space-between;
-/*padding-bottom: 94px;  */
 }
 
 .we-title:not(:last-child) {
@@ -271,7 +270,6 @@ margin-right: 30px;
 .comand-list {
 display: flex;
 justify-content: space-between;
-/*padding-bottom: 94px; */
 }
 
 .comand-list-item:not(:last-child) {
@@ -331,7 +329,6 @@ margin-right: 10px;
 .client-list {
     display: flex;
     justify-content: space-between;
-    /*padding-bottom: 94px; */
 }
 
 .client-list-item:not(:last-child) {
