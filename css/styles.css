@@ -180,8 +180,6 @@ border: 1px solid transparent;
 .us-list {
 display: flex; 
 justify-content: space-between;
-padding-top: 94px;
-padding-bottom: 94px;   
 }
 
 .us-list-item:not(:last-child) {
