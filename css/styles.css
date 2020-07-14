@@ -484,18 +484,17 @@ margin-bottom: 0;
 }
 
 .galery-img {
-margin-bottom: 20px;
 width: 100%;
 }
+
+
 
 .portfolio-title {
 margin-bottom: 4px;
 }
 
 .portfolio-title-text {
-padding-left: 24px;
-padding-right: 24px;
-padding-bottom: 20px;
+padding: 20px 24px;
 
 }
 
